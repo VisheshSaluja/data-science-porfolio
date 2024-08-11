@@ -1,0 +1,26 @@
+#education {
+  padding: 40px 20px;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+#education h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.education-item {
+  margin-bottom: 20px;
+}
+
+.education-item h3 {
+  font-size: 1.5rem;
+  margin-bottom: 5px;
+  color: #333;
+}
+
+.education-item p {
+  font-size: 1rem;
+  color: #666;
+}
